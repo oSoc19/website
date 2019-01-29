@@ -1,6 +1,6 @@
-# oSoc18-website
+# oSoc19-website
 
-Website for open Summer of code 2018
+Website for open Summer of code 2019
 
 -- This site is based on Foundation for Sites Template
 

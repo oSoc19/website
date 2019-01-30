@@ -24,7 +24,8 @@
 	}
 
 	.cell:nth-child(2),
-	.cell:nth-child(5) {
+	.cell:nth-child(5),
+	.cell:nth-child(8) {
 		img:hover {
 			background-color: $yellow;
 		}
